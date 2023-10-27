@@ -11,10 +11,10 @@ const express = require("express");
 const app = express();
 const helmet = require("helmet");
 ///
-client.login("BOT_TOKEN");
-let admin = ["ID_1", "ID_2", "ID_3"];
+client.login("Nzk4NDI2MzQwNzM0MjcxNDg4.Gf-XN1.kect08yIOFe82XjyUV28EwlisMQq8mYwkEP2ZI");
+let admin = ["743887896481628190"];
 let blacklist = ["ID_1", "ID_2"];
-let prefix = "BOT_PREFIX"
+let prefix = "?"
 let discord_server_invite = "DISCORD_SERVER_INVITE_LINK"
 let log_channel_id = "LOG_CHANNEL_ID"
 let status_channel_id = "STATUS_CHANNEL_ID"
