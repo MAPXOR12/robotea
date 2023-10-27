@@ -46,7 +46,7 @@
     "wio.db": "https://github.com/LegendaryEmoji/old-wio.db"
   },
   "engines": {
-    "node": "12.x"
+    "node": "18.x"
   },
   "license": "MIT"
 }
