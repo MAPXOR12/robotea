@@ -15,16 +15,16 @@ client.login("Nzk4NDI2MzQwNzM0MjcxNDg4.Gf-XN1.kect08yIOFe82XjyUV28EwlisMQq8mYwkE
 let admin = ["743887896481628190"];
 let blacklist = ["ID_1", "ID_2"];
 let prefix = "?"
-let discord_server_invite = "DISCORD_SERVER_INVITE_LINK"
-let log_channel_id = "LOG_CHANNEL_ID"
-let status_channel_id = "STATUS_CHANNEL_ID"
-let lam_log_channel_id = "LEAVE_A_MESSAGE_CHANNEL_ID"
-let server_id = "DISCORD_SERVER_ID"
-let discord_client_secret = "DISCORD_CLIENT_SECRET"
-let discord_callback_url = "DISCORD_CALLBACK_URL"
+let discord_server_invite = "https://discord.gg/hSTt8DUmkw"
+let log_channel_id = "1159040660821770302"
+let status_channel_id = "1159040660821770302"
+let lam_log_channel_id = "1159040660821770302"
+let server_id = "1130952613844754592"
+let discord_client_secret = "0a3XH_SGG8X7-TOc5d90OsOEQjRpm8iK"
+let discord_callback_url = "https://robotea.vercel.app/auth/discord/callback"
 let google_client_id = "GOOGLE_CLIENT_ID"
 let google_client_secret = "GOOGLE_CLIENT_SECRET"
-let google_callback_url = "GOOGLE_CALLBACK_URL"
+let google_callback_url = "https://robotea.vercel.app/auth/google/callback"
 ///
 client.admin = admin;
 client.blacklist = blacklist;
